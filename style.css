@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  /* position: relative; */
+  text-align: center;
+  margin: 150px auto;
+}
+h1 {
+  margin-bottom: 20px;
+}
+input {
+  margin-bottom: 20px;
+  padding: 5px;
+  width: 500px;
+}
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
